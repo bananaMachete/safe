@@ -1,0 +1,16 @@
+
+.normal {
+  height: 100%;
+  padding-top: 200px;
+}
+.loginBox{
+  width: 400px;
+  padding: 20px;
+  margin: 20px auto 0;
+  background: rgba(255,255,255,0.6);
+}
+.title{
+  text-align: center;
+  font-size: 33px;
+  line-height: 33px;
+}
